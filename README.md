@@ -1,3 +1,3 @@
 # maven-project
 
-Simple Maven Project
+Simple Devops Project for Ansible
